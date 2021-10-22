@@ -1,6 +1,6 @@
 # Alchemical Transfer Method
 
-Input files and instructions to run the Alchemical Transfer simulations for the estimation of binding free energies of small to medium sized solute molecules using OpenMM described in [Alchemical Transfer Approach to Absolute Binding Free Energy Estimation](https://arxiv.org/abs/2101.07894), currently under review in the Journal of Chemical Theory and Computation.
+Input files and instructions to run the Alchemical Transfer simulations for the estimation of binding free energies of small to medium sized solute molecules using OpenMM described in [Alchemical Transfer Approach to Absolute Binding Free Energy Estimation](https://arxiv.org/abs/2101.07894), published on the [Journal of Chemical Theory and Computation](https://pubs.acs.org/doi/10.1021/acs.jctc.1c00266).
 
 ## Contributors
 
